@@ -1,0 +1,217 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+body{
+    background:#f5f7fb;
+}
+
+
+
+header{
+
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+
+    padding:20px 8%;
+
+    background:#0f172a;
+    color:white;
+}
+
+.logo{
+
+    font-size:30px;
+    font-weight:700;
+}
+
+nav a{
+
+    color:white;
+    text-decoration:none;
+    margin-left:30px;
+    font-size:17px;
+    transition:.3s;
+}
+
+nav a:hover{
+
+    color:#38bdf8;
+}
+
+
+
+.hero{
+
+    height:350px;
+
+    background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),
+    url("images/house1.jpg");
+
+    background-size:cover;
+    background-position:center;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+
+    color:white;
+}
+
+.hero h1{
+
+    font-size:55px;
+}
+
+.hero p{
+
+    margin-top:15px;
+    font-size:20px;
+}
+
+
+
+.property-container{
+
+    width:90%;
+    margin:auto;
+    padding:60px 0;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+
+    gap:35px;
+}
+
+.property-card{
+
+    background:white;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 20px rgba(0,0,0,.12);
+
+    transition:.4s;
+}
+
+.property-card:hover{
+
+    transform:translateY(-10px);
+
+    box-shadow:0 15px 35px rgba(0,0,0,.2);
+}
+
+.property-card img{
+
+    width:100%;
+
+    height:230px;
+
+    object-fit:cover;
+}
+
+.property-info{
+
+    padding:20px;
+}
+
+.title{
+
+    font-size:24px;
+
+    color:#1e293b;
+}
+
+.location{
+
+    color:#64748b;
+
+    margin-top:10px;
+}
+
+.price{
+
+    margin-top:15px;
+
+    color:#0f766e;
+
+    font-size:25px;
+
+    font-weight:700;
+}
+
+.bedroom{
+
+    margin-top:10px;
+
+    color:#475569;
+}
+
+button{
+
+    margin-top:20px;
+
+    width:100%;
+
+    padding:12px;
+
+    border:none;
+
+    background:#2563eb;
+
+    color:white;
+
+    border-radius:8px;
+
+    font-size:16px;
+
+    cursor:pointer;
+
+    transition:.3s;
+}
+
+button:hover{
+
+    background:#1d4ed8;
+}
+
+
+@media(max-width:768px){
+
+header{
+
+flex-direction:column;
+
+}
+
+nav{
+
+margin-top:15px;
+
+}
+
+.hero h1{
+
+font-size:35px;
+
+text-align:center;
+
+}
+
+.hero p{
+
+font-size:17px;
+
+text-align:center;
+
+}
+
+}
