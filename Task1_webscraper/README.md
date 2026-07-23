@@ -51,6 +51,7 @@ python scraper.py
 
 A file named `property_listings.csv` will be generated.
 
+
 ## Skills Learned
 
 - HTTP Requests
@@ -59,6 +60,7 @@ A file named `property_listings.csv` will be generated.
 - CSV File Handling
 - BeautifulSoup
 - Python Programming
+  
 
 ## Author
 
