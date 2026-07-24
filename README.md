@@ -7,34 +7,10 @@
 This repository contains all the internship tasks completed during my Growfinix python Development Internship. Each project focuses on solving practical business problems using Python, SQL, Data Visualization, Web Scraping, and Statistical Analysis.
 
 ---
-## 👨‍💻 About This Project
 
-The **Automated Property Web Scraper** is a Python application that collects property listing information from a website by sending HTTP requests, parsing HTML content, extracting useful property details, and storing the extracted data in a CSV file for further analysis.
+# 📂 Project Tasks
 
-This project demonstrates the fundamentals of **Web Scraping**, **HTML Parsing**, **Data Extraction**, and **CSV File Handling** using Python.
-
----
-
-## 🎯 Objective
-
-Develop a Python application to automatically:
-
-- Extract property listing information from a website.
-- Parse webpage HTML.
-- Store the collected data in a CSV file.
-- Handle connection and parsing errors gracefully.
-
----
-
-## ✨ Features
-
-- 🌐 Fetch webpage content using HTTP requests
-- 🔍 Parse HTML using BeautifulSoup
-- 🏠 Extract property information
-- 💾 Save extracted data into a CSV file
-- 📄 Clean and well-structured Python code
-
----
+## 🌐 Task 1 - Web Scraping
 
 ## 🛠 Skills Learned
 
@@ -57,7 +33,11 @@ By completing this project, I learned how to:
 - HTML webpages
 - Extract structured data from websites
 - Store data into CSV files
+- 
+**Tools Used**
 
+- BeautifulSoup
+- Requests
 ---
 
 ## 👨‍💻 Author
