@@ -1,4 +1,4 @@
-# 🚀 Growfinix  Internship
+# 🚀 Growfinix python Development Internship
 
 ---
 
@@ -64,12 +64,5 @@ By completing this project, I learned how to:
 
 **Vedant Magdum**
 
-Python Development Intern
-
-GitHub: https://github.com/YourGitHubUsername
-
-LinkedIn: https://www.linkedin.com/in/YourLinkedInUsername
-
----
 
 ⭐ **If you found this project helpful, consider giving it a Star!**
