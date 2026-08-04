@@ -87,10 +87,10 @@ Vedant,magdumvedant05@gmail.com
 ```
 Email sent to vedant
 
+```
 ## Email Received
 
 ![Email](Image/email_received.png)
-```
 
 ---
 
