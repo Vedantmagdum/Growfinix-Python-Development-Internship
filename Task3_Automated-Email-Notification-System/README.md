@@ -89,7 +89,7 @@ Email sent to vedant
 
 ## Email Received
 
-![Email](images/email_received.png)
+![Email](Image/email_received.png)
 ```
 
 ---
