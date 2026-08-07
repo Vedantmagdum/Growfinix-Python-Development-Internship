@@ -53,7 +53,9 @@ Task5-External-API-Consumer/
 
 ## Sample Output
 
+![Sample output](Image/output.png)
 
+---
 
 ---
 
