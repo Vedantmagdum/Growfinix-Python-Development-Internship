@@ -46,10 +46,20 @@ pip install beautifulsoap
 ```bash
 python scraper.py
 ```
+## WEB SCREENSHOT
 
+![screenshot](IMAGE/web_page.png)
+
+---
 ## Output
 
 A file named `property_listings.csv` will be generated.
+
+## WEB SCREENSHOT
+
+![screenshot](IMAGE/output.png)
+
+---
 
 
 ## Skills Learned
