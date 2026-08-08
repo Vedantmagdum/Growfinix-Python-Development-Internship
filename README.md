@@ -40,6 +40,17 @@ By completing this project, I learned how to:
 - Requests
 ---
 
+# Automated Email Notification System
+
+## Overview
+
+This project is a Python-based Automated Email Notification System that sends personalized confirmation emails to customers.
+
+The application reads customer details from a CSV file, generates personalized email messages, and sends them using Gmail SMTP.
+
+Sensitive credentials are securely stored in a `.env` file using the `python-dotenv` package.
+
+
 ## 👨‍💻 Author
 
 **Vedant Magdum**
